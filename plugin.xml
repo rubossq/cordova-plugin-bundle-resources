@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="cordova-plugin-bundle-resources"
+    version="1.0.0">
+    <name>Cordova Plugin Bundle Resources</name>
+    <description></description>
+    <license>Apache License 2.0</license>
+    <keywords>Cordova Plugin Resources Bundle</keywords>
+    <repo>https://github.com/rubossq/cordova-plugin-bundle-resources.git</repo>
+    <issue>https://github.com/rubossq/cordova-plugin-bundle-resources/issues</issue>
+
+    <!-- android resources -->
+    <platform name="android">
+        <!-- <resource-file src="path-to-your-resource/resource-name" target="res/values/resource-name" />-->
+        
+        <!-- EXAMPLE -->
+        <resource-file src="res/drawable-mdpi/ic_stat_account_box.png" target="res/drawable-mdpi/present_icon.png" />
+        <resource-file src="res/drawable-hdpi/ic_stat_account_box.png" target="res/drawable-hdpi/present_icon.png" />
+        <resource-file src="res/drawable-xhdpi/ic_stat_account_box.png" target="res/drawable-xhdpi/present_icon.png" />
+        <resource-file src="res/drawable-xxhdpi/ic_stat_account_box.png" target="res/drawable-xxhdpi/present_icon.png" />
+        
+    </platform>
+
+    <!-- ios resources-->
+    <platform name="ios">
+        <!-- try it if you need -->
+    </platform>
+
+</plugin>

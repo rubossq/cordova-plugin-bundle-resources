@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-bundle-resources",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-bundle-resources",
+    "platforms": [
+      "android",
+      "ios",
+    ]
+  },
+  "description": "Move resources to your "res" folder your project"
+}
