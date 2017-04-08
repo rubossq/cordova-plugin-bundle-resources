@@ -19,6 +19,11 @@
         <resource-file src="res/drawable-hdpi/ic_stat_account_box.png" target="res/drawable-hdpi/present_icon.png" />
         <resource-file src="res/drawable-xhdpi/ic_stat_account_box.png" target="res/drawable-xhdpi/present_icon.png" />
         <resource-file src="res/drawable-xxhdpi/ic_stat_account_box.png" target="res/drawable-xxhdpi/present_icon.png" />
+
+        <resource-file src="res/drawable-mdpi/ic_stat_account_box.png" target="res/mipmap-mdpi/present_icon.png" />
+        <resource-file src="res/drawable-hdpi/ic_stat_account_box.png" target="res/mipmap-hdpi/present_icon.png" />
+        <resource-file src="res/drawable-xhdpi/ic_stat_account_box.png" target="res/mipmap-xhdpi/present_icon.png" />
+        <resource-file src="res/drawable-xxhdpi/ic_stat_account_box.png" target="res/mipmap-xxhdpi/present_icon.png" />
         
     </platform>
 
