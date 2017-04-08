@@ -5,8 +5,8 @@
     "id": "cordova-plugin-bundle-resources",
     "platforms": [
       "android",
-      "ios",
+      "ios"
     ]
   },
-  "description": "Move resources to your "res" folder your project"
+  "description": "Move resources to your 'res' folder your project"
 }
